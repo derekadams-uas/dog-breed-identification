@@ -1,4 +1,4 @@
-# dog-breed-identification
+# Dog Breed Identification
 
 This project is an end-to-end multi-class image classifier using TensorFlow2.0 and TensorFlow Hub.
 
