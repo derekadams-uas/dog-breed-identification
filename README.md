@@ -8,7 +8,7 @@ Identifying the breed of a dog given an image of a dog.
 
 ## Data
 
-The data we're using is from Kaggle's dog breed identification competition
+The data we're using is from Kaggle's dog breed identification competition.
 
 ## Evaluation
 
